@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.testing.sample.SampleUtilTest" time="0" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.testing.sample.SampleUtilTest" time="0.001" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/test-classes:/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/classes:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.class.path" value="/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/test-classes:/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/classes:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/root/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
     <property name="java.vm.vendor" value="Azul Systems, Inc."/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
@@ -12,9 +12,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/zulu-14-amd64/lib"/>
-    <property name="sun.java.command" value="/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/surefire/surefirebooter2740324726710422054.jar /media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/surefire 2020-12-10T10-05-59_890-jvmRun1 surefire2019634318202941667tmp surefire_04960257835765534917tmp"/>
+    <property name="sun.java.command" value="/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/surefire/surefirebooter6495048417243385527.jar /media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/surefire 2020-12-10T10-29-23_212-jvmRun1 surefire11539463709600288970tmp surefire_011235590527494398734tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/test-classes:/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/classes:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="surefire.test.class.path" value="/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/test-classes:/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/classes:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/root/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/root"/>
     <property name="user.language" value="en"/>
@@ -28,7 +28,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="jdk.vendor.version" value="Zulu14.29+23-CA"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/surefire/surefirebooter2740324726710422054.jar"/>
+    <property name="surefire.real.class.path" value="/media/tomio/SSD-PMU3/github/tomkob99/mymaven/MySampleMavenProject/target/surefire/surefirebooter6495048417243385527.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="14.0.2+12"/>
     <property name="user.name" value="root"/>
@@ -52,6 +52,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="testAdd" classname="com.testing.sample.SampleUtilTest" time="0"/>
+  <testcase name="testAdd" classname="com.testing.sample.SampleUtilTest" time="0.001"/>
   <testcase name="testAdd1" classname="com.testing.sample.SampleUtilTest" time="0"/>
 </testsuite>
